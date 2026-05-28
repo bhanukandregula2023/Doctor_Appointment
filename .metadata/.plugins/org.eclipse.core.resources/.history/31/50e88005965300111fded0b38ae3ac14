@@ -1,0 +1,5 @@
+package com.gvp.dto;
+
+public class LoginRequest {
+
+}

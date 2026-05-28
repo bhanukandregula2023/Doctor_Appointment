@@ -1,0 +1,5 @@
+package com.gvp.entity;
+
+public class Doctor {
+
+}

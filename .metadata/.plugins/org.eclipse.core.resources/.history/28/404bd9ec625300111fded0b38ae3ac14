@@ -1,0 +1,5 @@
+package com.gvp.repository;
+
+public interface AppointmentRepository {
+
+}

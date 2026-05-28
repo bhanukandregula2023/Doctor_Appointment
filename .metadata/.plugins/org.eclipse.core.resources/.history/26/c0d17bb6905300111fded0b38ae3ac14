@@ -1,0 +1,5 @@
+package com.gvp.controller;
+
+public class AuthController {
+
+}

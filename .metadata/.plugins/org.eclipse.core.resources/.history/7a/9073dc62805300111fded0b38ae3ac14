@@ -1,0 +1,5 @@
+package com.gvp.config;
+
+public class Securityconfig {
+
+}
