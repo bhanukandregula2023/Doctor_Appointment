@@ -1,5 +1,0 @@
-package com.gvp.repository;
-
-public interface UserRepository {
-
-}

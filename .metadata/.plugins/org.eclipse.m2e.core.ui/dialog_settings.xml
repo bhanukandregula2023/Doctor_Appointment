@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\bhanu priyanka\Downloads\Expense-Tracker-main"/>
 			<item value="D:\Resume projects\Backend_Doctor"/>
 		</list>
 		<list key="projectNameTemplate">
