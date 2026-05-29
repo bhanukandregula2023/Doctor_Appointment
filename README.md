@@ -120,6 +120,7 @@ Backend runs on:
 http://localhost:8080
 
 FRONTEND SETUP
+
 1️⃣ Navigate to Frontend Folder
 cd hospital-frontend
 
